@@ -96,3 +96,21 @@ line-height: 100%; /* 18px */
 background: #F17228;
 color: white;
 }
+
+.las-btn{
+
+  display: flex;
+padding: 21px 48px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+border-radius: 14px;
+background: linear-gradient(141deg, #FFBA26 0%, #FF9A0E 100%);
+box-shadow: 0px 20px 40px 0px rgba(255, 174, 0, 0.29), 0px 5px 10px 0px rgba(255, 174, 0, 0.26);
+
+ color: var(--theme-white, #FFF);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 100%; /* 18px */
+}
