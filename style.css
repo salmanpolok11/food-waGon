@@ -31,3 +31,17 @@ max-width: 1920px;
   border-radius: 8px;
  background: linear-gradient(138deg, #FF7A7A 0%, #F65900 100%);
 }
+
+.details-containar{
+padding: 80px 0px;
+gap: 71px;
+background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) 0%, rgba(253, 237, 202, 0.00) 100%);
+}
+
+.cor-btn{
+  color: #F17228;
+text-align: center;
+font-size: 43px;
+font-weight: 900;
+line-height: 112%; 
+}
