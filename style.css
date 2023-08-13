@@ -2,3 +2,16 @@
 .font-family{
   font-family: 'Source Sans 3', sans-serif;
 }
+
+.btn-containar{
+padding: 8px 24px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #FFF;
+
+/* Shadow/1 */
+box-shadow: 0px 20px 40px 0px rgba(255, 174, 0, 0.29), 
+0px 5px 10px 0px rgba(255, 174, 0, 0.26);
+}
